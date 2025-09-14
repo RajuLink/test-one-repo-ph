@@ -89,6 +89,61 @@ nav li a{
     text-align: center;
 }
 
+.live-preview{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 200px;
+}
 
+.live-preview{
+    max-width: 1140px;
+    max-height: 328px;
+    text-align: center;
+    align-items: center;
+    margin: 141px 159px;
+    
+}
+.live-preview-content{
+    max-width: 517px;
+    max-height: 203px;
+    text-align: left;
+    
+}
+.preview-img{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+}
+.live-preview-description{
+    margin-bottom: 30px;
+}
+.productive-users-count{
+    max-width: 1140px;
+    max-height: 306px;
+    margin: 141px 159px;
+    border-radius: 24px;
+    border-radius: 24px;
+    background-color: #e5e7ff;
+    padding: 50px 80px;
+    text-align: center;
+}
+.productive-users-heading{
+    color: #252432;
+    font-size: 30px;
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+    line-height: 10px;   
+}
+.count-big{
+    font-size: 40px;
+    color: #4E47FF;
+    font-weight: 700;
+}
+.count-description{
+    font-size: 16px;
+    color: #737380
+}
 
 
