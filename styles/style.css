@@ -88,6 +88,9 @@ nav li a{
     margin-bottom: 50px;
     text-align: center;
 }
+body{
+    background-color: #f5f8ff;
+}
 
 .live-preview{
     display: flex;
@@ -146,4 +149,48 @@ nav li a{
     color: #737380
 }
 
+
+.review-container{
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    margin: 0px 149px 137px 151px;
+    max-width: 1140px;
+    max-height: 342px;
+    
+}
+
+.reviewer-info{
+    display: flex;
+    align-items: center;
+}
+.reviewer-name-date{
+    line-height: 5px;
+    margin-left: 5px;
+}
+.reviewer-name{
+    font-size: 16px;
+    color: #757575;
+}
+.review-date{
+    font-size: 16px;
+    color: #B3B3B3;
+}
+.review-top-title{
+    text-align: center;
+}
+.reviewer-avatar{
+    border-radius: 50px;
+}
+.review-title{
+    font-size: 18px;
+}
+.review-container-items{
+    background-color: #fafcff;
+    border: 1px solid #F2EDED;
+    border-radius: 10px;
+    max-width: 366px;
+    padding: 24px
+    
+}
 
