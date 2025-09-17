@@ -169,11 +169,11 @@ body{
     margin-left: 5px;
 }
 .reviewer-name{
-    font-size: 16px;
+    font-size: 13px;
     color: #757575;
 }
 .review-date{
-    font-size: 16px;
+    font-size: 13px;
     color: #B3B3B3;
 }
 .review-top-title{
@@ -191,6 +191,33 @@ body{
     border-radius: 10px;
     max-width: 366px;
     padding: 24px
-    
 }
+
+.get-started-container{
+    text-align: center;
+    background-color:#ffffff;
+    max-width: 1140px;
+    align-items: center;
+    border-radius: 14px;
+    line-height: 30px;
+    padding: 71px; 150px; 71px; 150px;
+    margin: 0px 149px 0px 151px;
+}
+
+
+.get-started-title{
+    font-size: 40px;
+}
+.get-started-sub-title{
+    font-size: 14px;
+    color:#808080;
+    margin: 30px 0px 30px 0px;
+}
+
+
+.get-started-img{
+    border-radius: 48px;
+    margin: 30px; 150px; 71px; 150px;
+}
+
 
